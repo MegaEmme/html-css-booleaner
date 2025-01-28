@@ -1,7 +1,9 @@
 header{
     background-size: contain;
     background-image: url('../img/pattern.png');
-    height: 100px;
+    /* height: 100px; è sbagliato, devi usare padding*/
+    padding-top: 52px;
+    padding-left: 10px;
     background-color: #4ea0ff;
 }
 
