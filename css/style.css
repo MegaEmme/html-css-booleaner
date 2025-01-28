@@ -17,6 +17,10 @@ p{
     width: 200px;
 }
 
+table{
+    border-spacing: 0;
+}
+
 .blue{
     color: #79cbf0;
 }
