@@ -1,7 +1,19 @@
+*{
+    /* cosi la pagina non ha bordi bianchi */
+    margin: 0;
+    padding: 0;
+}
+
 header{
-    background-size: contain;
+    background-size: 35%;
     background-image: url('../img/pattern.png');
-    /* height: 100px; è sbagliato, devi usare padding*/
+    
+    /* height: 100px; è sbagliato, devi usare padding
+    
+    shorthand:
+    padding: 50px 0 40px 60px dove (top, right, bottom, left)
+    
+    */
     padding-top: 52px;
     padding-left: 10px;
     background-color: #4ea0ff;
